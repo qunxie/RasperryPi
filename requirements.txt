@@ -1,0 +1,15 @@
+# Head Tracking Project - Raspberry Pi + MPU6050
+# Install with: pip install -r requirements.txt
+
+# I2C Communication
+smbus2>=0.4.3
+
+# Numerical operations & sensor fusion
+numpy>=1.24.0
+
+# Display & graphics
+pygame>=2.5.0
+
+# Optional: Advanced filtering (Kalman)
+# filterpy>=1.4.5
+
